@@ -28,7 +28,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   line-height: 1.7;
   font-weight: 500;
-  height: 100vh;
+  min-height: 100vh;
   background-color: var(--clr-cream);
   color: var(--clr-dark-grayish-blue);
 
