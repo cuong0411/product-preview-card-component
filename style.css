@@ -87,9 +87,10 @@ img {
   font-size: 2rem;
 }
 
-.product-original-price {
+/* using del in html */
+/* .product-original-price {
   text-decoration: line-through;
-}
+} */
 
 .btn {
   background-color: var(--clr-dark-cyan);
